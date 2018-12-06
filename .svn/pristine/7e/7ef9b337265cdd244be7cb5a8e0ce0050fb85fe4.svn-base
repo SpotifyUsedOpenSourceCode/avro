@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<!--
+Forrest site.xml
+
+This file contains an outline of the site's information content.  It is used to:
+- Generate the website menus (though these can be overridden - see docs)
+- Provide semantic, location-independent aliases for internal 'site:' URIs, eg
+<link href="site:changes"> links to changes.html (or ../changes.html if in
+  subdir).
+- Provide aliases for external URLs in the external-refs section.  Eg, <link
+  href="ext:cocoon"> links to http://xml.apache.org/cocoon/
+
+See http://forrest.apache.org/docs/linking.html for more info.
+-->
+
+<site label="Avro" href="" xmlns="http://apache.org/forrest/linkmap/1.0">
+
+  <project label="Project">
+    <releases  label="Releases"           href="releases.html" />
+    <news      label="News"               href="releases.html#News" />
+    <credits   label="Credits"            href="credits.html" /> 
+    <license   label="License"            href="ext:license" /> 
+    <privacy   label="Privacy Policy"     href="ext:privacy" />
+    <security  label="Security"           href="ext:security" />
+    <donate    label="Donate"             href="ext:donate" />
+    <thanks    label="Thanks"             href="ext:thanks" />
+  </project>
+
+  <docs label="Documentation"> 
+    <current   label="Current"            href="ext:docs/current" />
+    <r1.8.2    label="1.8.2"              href="ext:docs/r1.8.2" />
+    <r1.7.7    label="1.7.7"              href="ext:docs/r1.7.7" />
+  </docs>
+
+  <resources label="Developers">
+    <devmail   label="Mailing Lists"      href="mailing_lists.html#Developers" />
+    <issues    label="Issue Tracking"     href="issue_tracking.html" />
+    <vcs       label="Version Control"    href="version_control.html" />
+    <irc       label="IRC Channel"        href="irc.html" />
+  </resources>
+
+  <external-refs>
+    <wiki      href="https://cwiki.apache.org/confluence/display/AVRO/Index" />
+    <faq       href="https://cwiki.apache.org/confluence/display/AVRO/FAQ" />
+    <nightly   href="http://hudson.zones.apache.org/hudson/job/Avro-trunk/" />
+    <releases  href="http://www.apache.org/dyn/closer.cgi/avro/" />
+    <license   href="http://www.apache.org/licenses/"/>
+    <privacy   href="http://hadoop.apache.org/privacy_policy.html"/>
+    <security  href="http://www.apache.org/security/"/>
+    <donate    href="http://www.apache.org/foundation/sponsorship.html"/>
+    <thanks    href="http://www.apache.org/foundation/thanks.html"/>
+    <docs href="http://avro.apache.org/docs/">
+      <current href="current" />
+      <r1.8.2 href="1.8.2" />
+      <r1.7.7 href="1.7.7" />
+    </docs>
+  </external-refs>
+ 
+</site>

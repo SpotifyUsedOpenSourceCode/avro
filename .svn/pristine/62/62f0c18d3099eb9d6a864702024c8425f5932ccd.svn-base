@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<project name="site" default="site" basedir=".">
+  
+  <!-- Load user's default properties. -->
+  <property file="${user.home}/build.properties" />
+  
+  <target name="site" depends="forrest.check" description="Generate forrest-based documentation. To use, specify -Dforrest.home=&lt;base of Apache Forrest installation&gt; on the command line." if="forrest.home">
+    <exec executable="${forrest.home}/bin/forrest" failonerror="true">
+      <arg value="-Dproject.content-dir=author"/>
+      <arg value="-Dproject.site=../publish"/>
+      <arg value="-Dproject.skin=hadoop-pelt"/>
+    </exec>
+  </target>
+
+  <target name="forrest.check" unless="forrest.home">
+    <fail message="'forrest.home' is not defined. Please pass -Dforrest.home=&lt;base of Apache Forrest installation&gt; to Ant on the command-line." />
+  </target>
+
+</project>

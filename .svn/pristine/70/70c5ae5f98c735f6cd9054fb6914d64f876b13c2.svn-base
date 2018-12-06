@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" 
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+
+<document>
+  
+  <header>
+    <title>Apache Avro&#153; Mailing Lists</title>
+  </header>
+  
+  <body>
+  
+    <section>
+      <title>Users</title>
+
+      <p>If you use Avro, please subscribe to the Avro user mailing list.</p>
+
+      <p>
+        The Avro user mailing list is :
+        <a href="mailto:user@avro.apache.org">user@avro.apache.org</a>.
+      </p>      
+      <ul>
+        <li><a href="mailto:user-subscribe@avro.apache.org">Subscribe to List</a></li>
+        <li><a href="mailto:user-unsubscribe@avro.apache.org">Unsubscribe from List</a></li>
+        <li><a href="http://search-hadoop.com/?q=&amp;fc_project=Avro">Search List Archive</a></li>
+        <li><a href="http://mail-archives.apache.org/mod_mbox/avro-user/">Archives</a></li>
+      </ul>
+      <note>In order to post to the list, it is necessary to first subscribe to it.</note>
+    </section>
+  
+    <section>
+      <title>Developers</title>
+
+      <p>If you'd like to contribute to Avro, please subscribe to the
+      Avro developer mailing list.</p>
+
+      <p>
+        The Avro developer mailing list is :
+        <a href="mailto:dev@avro.apache.org">dev@avro.apache.org</a>.
+      </p>      
+      <ul>
+        <li><a href="mailto:dev-subscribe@avro.apache.org">Subscribe to List</a></li>
+        <li><a href="mailto:dev-unsubscribe@avro.apache.org">Unsubscribe from List</a></li>
+        <li><a href="http://search-hadoop.com/?q=&amp;fc_project=Avro">Search List Archive</a></li>
+        <li><a href="http://mail-archives.apache.org/mod_mbox/avro-dev/">Archives</a></li>
+      </ul>
+      <note>In order to post to the list, it is necessary to first subscribe to it.</note>
+    </section>
+  
+    <section>
+      <title>Commits</title>
+
+      <p>If you'd like to see changes made in Avro's <a
+      href="version_control.html">version control system</a>
+      then subscribe to the Avro commit mailing list.</p>
+
+      <ul>
+        <li><a href="mailto:commits-subscribe@avro.apache.org">Subscribe to List</a></li>
+        <li><a href="mailto:commits-unsubscribe@avro.apache.org">Unsubscribe from List</a></li>
+        <li><a href="http://mail-archives.apache.org/mod_mbox/avro-commits/">Archives</a></li>
+      </ul>
+    </section>
+
+  </body>
+  
+</document>

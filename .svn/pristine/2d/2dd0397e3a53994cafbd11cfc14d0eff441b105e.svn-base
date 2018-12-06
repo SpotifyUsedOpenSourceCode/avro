@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
+
+<document>
+
+  <header>
+    <title>Apache Avro&#153; Version Control System</title>
+  </header>
+
+  <body>
+
+    <section>
+      <title>Overview</title>
+      <p>
+        Avro's source code lives in <a href="https://git-scm.com/">git</a>.
+        If you're not familiar with git, a good starting place is the
+        <a href="https://git-scm.com/book/en/v2">Pro Git</a> book.
+      </p>
+    </section>
+
+    <section>
+      <title>GitHub</title>
+      <p>
+        Avro's source repository is available on GitHub:
+        <a href="https://github.com/apache/avro">https://github.com/apache/avro</a>.
+      </p>
+      <p>
+        The <strong>Avro community welcomes pull requests</strong>, but
+        <strong>please create an issue in
+        <a href="https://issues.apache.org/jira/browse/AVRO">Avro's
+        issue tracker</a></strong> for your bug report or contribution as well.
+      </p>
+    </section>
+
+    <section>
+      <title>Committer Access (read-write)</title>
+      <p>
+        The Apache Avro project uses GitHub for version control of the software via
+        <a href="https://github.com/apache/avro"><code>https://github.com/apache/avro</code></a>.
+      </p>
+      <p>
+        For committers to get write access they must link their Apache and GitHub accounts via
+        <a href="https://gitbox.apache.org/setup/">the GitBox Account Linking Utility</a>.
+      </p>
+      <p>
+        Additional information for committers is in Apache's
+        <a href="http://www.apache.org/dev/git.html">Git documentation</a>.
+      </p>
+    </section>
+
+  </body>
+
+</document>

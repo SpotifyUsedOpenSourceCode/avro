@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" 
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+
+<document> 
+
+<header>
+  <title>Apache Avro&#153; credits</title> 
+</header> 
+
+<body>
+
+<section>
+<title>Committers</title>
+
+<p>Apache Avro's active committers are:</p>
+
+<table>
+
+  <tr>
+    <th>username</th>
+    <th>name</th>
+    <th>organization</th>
+    <th>roles</th>
+    <th>timezone</th>
+  </tr>
+
+  <tr>
+    <td>blue</td>
+    <td>Ryan Blue</td>
+    <td>Netflix</td>
+    <td>spec, java, ruby</td>
+    <td>-8</td>
+  </tr>
+
+  <tr>
+    <td>brucem</td>
+    <td>Bruce Mitchener</td>
+    <td>Army of Bruce</td>
+    <td>c</td>
+    <td>+7</td>
+  </tr>
+
+  <tr>
+    <td>busbey</td>
+    <td>Sean Busbey</td>
+    <td>Cloudera</td>
+    <td>java, ruby</td>
+    <td>-6</td>
+  </tr>
+
+  <tr>
+    <td>cutting</td>
+    <td>Doug Cutting</td>
+    <td>Cloudera</td>
+    <td>spec, java</td>
+    <td>-8</td>
+  </tr>
+
+  <tr>
+    <td>dcreager</td>
+    <td>Douglas Creager</td>
+    <td>RedJack, LLC</td>
+    <td>c</td>
+    <td>-5</td>
+  </tr>
+
+  <tr>
+    <td>hammer</td>
+    <td>Jeff Hammerbacher</td>
+    <td>Cloudera</td>
+    <td>python</td>
+    <td>-8</td>
+  </tr>
+
+  <tr>
+    <td>massie</td>
+    <td>Matt Massie</td>
+    <td>UC Berkeley</td>
+    <td>c</td>
+    <td>-8</td>
+  </tr>
+
+  <tr>
+    <td>martinkl</td>
+    <td>Martin Kleppmann</td>
+    <td>University of Cambridge</td>
+    <td>c, ruby</td>
+    <td>0</td>
+  </tr>
+
+  <tr>
+    <td>nielsbasjes</td>
+    <td>Niels Basjes</td>
+    <td>Bol.com</td>
+    <td>java, docker</td>
+    <td>+1</td>
+  </tr>
+
+  <tr>
+    <td>philz</td>
+    <td>Philip Zeyliger</td>
+    <td>Cloudera</td>
+    <td>java</td>
+    <td>-8</td>
+  </tr>
+
+  <tr>
+    <td>sbanacho</td>
+    <td>Scott Banachowski</td>
+    <td>Microsoft</td>
+    <td>c++</td>
+    <td>-8</td>
+  </tr>
+
+  <tr>
+    <td>scottcarey</td>
+    <td>Scott Carey</td>
+    <td>RichRelevance</td>
+    <td>java</td>
+    <td>-8</td>
+  </tr>
+
+  <tr>
+    <td>sharadag</td>
+    <td>Sharad Agarwal</td>
+    <td>InMobi</td>
+    <td>python</td>
+    <td>+5.5</td>
+  </tr>
+
+  <tr>
+    <td>thiru</td>
+    <td>Thiruvalluvan M. G.</td>
+    <td>VertiCloud</td>
+    <td>java</td>
+    <td>+5.5</td>
+  </tr>
+
+  <tr>
+    <td>tomwhite</td>
+    <td>Tom White</td>
+    <td>Cloudera</td>
+    <td>java</td>
+    <td>0</td>
+  </tr>
+
+</table>
+</section>
+
+<section>
+<title>Contributors</title>
+
+<p>A list of Avro contributors and their contributions is available
+from <a href="http://s.apache.org/AvroFixed">Jira</a>
+</p>
+
+</section>
+
+<section>
+<title>Emeriti</title>
+
+<p>Contributors who are no longer active on Avro are:</p>
+
+<ul>
+<li>None</li>
+</ul>
+</section>
+</body>
+</document>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" 
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+
+<document> 
+
+  <header> 
+    <title>Welcome to Apache Avro!</title> 
+  </header> 
+
+  <body>
+  <p>Apache Avro&#153; is a data serialization system.</p>
+
+  <p>To learn more about Avro, please read
+  the <a href="docs/current/">current documentation</a>.</p>
+
+  <p>To download Avro, please visit
+  the <a href="releases.html">releases</a> page.</p>
+
+  <p>Developers interested in getting more involved with Avro may join
+  the <a href="mailing_lists.html">mailing lists</a>,
+  report <a href="issue_tracking.html">bugs</a>, retrieve code from
+  the <a href="version_control.html">version control</a> system, and make
+  <a href="https://cwiki.apache.org/confluence/display/AVRO/How+To+Contribute">contributions</a>.</p>
+  </body>
+
+</document>
